@@ -1,0 +1,9 @@
+---
+# craft permission - v1.0.0
+# id: "permission"
+
+craft:
+  285: "exemple.use"
+
+message: "§c[§4!§c] §cYou don’t have permission!"
+...

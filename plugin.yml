@@ -1,0 +1,5 @@
+name: craftPermission
+version: 1.0.0
+api: 3.0.0
+author: refaltor
+main: refaltor\craftPermission\CraftPermission
